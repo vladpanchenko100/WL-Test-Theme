@@ -1,0 +1,29 @@
+.wl-header {
+     background: #000;
+     height: 100px;
+}
+
+
+.wl-header-other > p {
+     color: white
+}
+
+.wl-main {
+     background: #fff;
+}
+
+.wl-section {
+     height: 400px;
+}
+
+.wl-footer {
+     position: absolute;
+     bottom: 0;
+     background: #000;
+     height: 80px;
+}
+
+.wl-footer-span {
+     color: white;
+}
+
